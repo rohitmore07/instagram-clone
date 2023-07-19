@@ -8,7 +8,9 @@ This is a simple project aimed at recreating the user interface of the popular s
 ## :rocket: [Live Preview](https://instagram-clone-creatro.vercel.app/)
 
 ## Gratitude
-I had the incredible opportunity to participate in the 7 Days Instagram Clone Bootcamp by DevTown. It has been an exhilarating journey of learning, exploration, and growth in the world of web development. 
+I had the incredible opportunity to participate in the 7 Days Instagram Clone Bootcamp by DevTown. It has been an exhilarating journey of learning, exploration, and growth in the world of web development.
+
+<img src="/certificate.png" width="400">
 
 ## Feedback
 If you have any feedback, please reach out to me at cserohitmore@gmail.com
